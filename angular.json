@@ -27,7 +27,10 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jassa-admin.min.js",
+              "src/assets/js/chart-area-demo.js"
+            ]
           },
           "configurations": {
             "production": {
