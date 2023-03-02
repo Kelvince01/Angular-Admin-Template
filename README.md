@@ -1,4 +1,5 @@
-# JassaAdminTemplate
+# Angular Admin Template
+Admin template made with Angular, Bootstrap and ChartJS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
 
